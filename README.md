@@ -1,3 +1,9 @@
+## ABOUT
+
+This project is called ReadLogger. A user is able to track what they have read and the duration of the reading session.
+You are able to add users, edit reading logs, and delete reading logs. The purpose of this project was to use Node.js
+and React to create an small web application.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
